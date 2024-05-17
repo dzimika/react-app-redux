@@ -7,13 +7,18 @@ This is the first step of the challenge:
 
 ## Installation
 
-1. In the project directory, install dependencies:
+1. Clone the repository:
+### `git clone https://github.com/dzimika/react-app-redux`
+
+2. In the project directory, install dependencies:
    
 ### `npm install`
    
-2. In the project directory, you can run:
+3. In the project directory, you can run:
 
 ### `npm start`
 
 Runs the app in the development mode.\
+
+## Comments
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
