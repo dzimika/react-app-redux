@@ -6,7 +6,12 @@ This is the first step of the challenge:
 1. write a counter app with react and redux. keep the state in redux
 
 ## Installation
-In the project directory, you can run:
+
+1. In the project directory, install dependencies:
+   
+### `npm install`
+   
+2. In the project directory, you can run:
 
 ### `npm start`
 
